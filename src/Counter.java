@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 class count {
     static int cnt =0;
     count() {
